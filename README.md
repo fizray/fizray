@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hafiz Rayan K</h1>
 <h3 align="center">A passionate student from Indonesia.</h3>
 
+- 📷 My current hobby are photography 
+
 - 🌱 I’m currently learning **Python, Front End Developer**
 
 - 📫 You can reach me at [hrkcocoa@hrk.jp.eu.org](mailto:hrkcocoa@hrk.jp.eu.org)
