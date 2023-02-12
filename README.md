@@ -3,11 +3,12 @@
 
 - 🌱 I’m currently learning **Python, Front End Developer**
 
-- 📫 How to reach me **hrkcocoa@hrk.jp.eu.org**
+- 📫 You can reach me at [hrkcocoa@hrk.jp.eu.org](mailto:hrkcocoa@hrk.jp.eu.org)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Social media:</h3>
 <p align="left">
 <a href="https://instagram.com/h12k01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h12k01" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009803118741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hafiz Rayan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
