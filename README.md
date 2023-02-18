@@ -3,6 +3,8 @@
 
 - 📷 My current hobby are photography 
 
+- 🌍 I'm fluent at Indonesian and still learning English and some Japaneese too c:
+
 - 🌱 I’m currently learning **Python, Front End Developer**
 
 - 📫 You can reach me at [hfzrk727@gmail.com](mailto:hfzrk727@gmail.com)
