@@ -3,11 +3,11 @@
 
 - 📷 My current hobby are photography 
 
-- 🌍 I'm fluent at Indonesian and still learning English and some Japaneese too c:
+- 🌍 I'm a native Indonesian and still learning english.
 
-- 🌱 I’m currently learning **Python, Front End Developer**
+- 🌱 I’m currently learning **Front End Developer**
 
-- 📫 You can reach me at [hello@hrk.jp.eu.org](mailto:hello@hrk.jp.eu.org)
+- 📫 You can reach me at [hello@hrk.my.id](mailto:hello@hrk.my.id)
 
 <h3 align="left">My Social media:</h3>
 <p align="left">
