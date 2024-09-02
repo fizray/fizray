@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Front End Developer**
 
-- 📫 You can reach me at [hfzrk727@gmail.com](mailto:hfzrk727@gmail.com)
+- 📫 You can reach me at [hello@hrk.jp.eu.org](mailto:hello@hrk.jp.eu.org)
 
 <h3 align="left">My Social media:</h3>
 <p align="left">
