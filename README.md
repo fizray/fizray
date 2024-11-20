@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hafiz Rayan K</h1>
+<h1 align="center">Hi 👋, I'm Hafiz</h1>
 <h3 align="center">A passionate student from Indonesia.</h3>
 
 - 📷 My current hobby are photography 
@@ -12,7 +12,7 @@
 <h3 align="left">My Social media:</h3>
 <p align="left">
 <a href="https://instagram.com/hfzrk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hfzrk_" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100009803118741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hafiz Rayan" height="30" width="40" /></a>
+                                                                                                                                                                                                                                          
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
