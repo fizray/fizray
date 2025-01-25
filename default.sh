@@ -29,6 +29,7 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
     "https://huggingface.co/Laxhar/noobai-XL-Vpred-1.0/blob/main/NoobAI-XL-Vpred-v1.0.safetensors"
     "https://huggingface.co/John6666/boleromix-illustriousxl-v281-sdxl/blob/main/boleromixIllustrious_v281.safetensors"
+    "https://civitai.com/models/18927/sweet-mix"
 )
 
 LORA_MODELS=(
