@@ -18,7 +18,9 @@ PIP_PACKAGES=(
     "onnxruntime-gpu"
 )
 
-EXTENSIONS=()
+EXTENSIONS=(
+"https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
+)
 
 CHECKPOINT_MODELS=(
     #"https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
