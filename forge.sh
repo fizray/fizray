@@ -24,7 +24,7 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://huggingface.co/John6666/boleromix-illustriousxl-v281-sdxl/blob/main/boleromixIllustrious_v281.safetensors"
+    #"https://huggingface.co/John6666/boleromix-illustriousxl-v281-sdxl/blob/main/boleromixIllustrious_v281.safetensors"
 )
 
 LORA_MODELS=(
