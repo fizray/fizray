@@ -20,6 +20,7 @@ PIP_PACKAGES=(
 
 EXTENSIONS=(
 "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
+"https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper"
 )
 
 CHECKPOINT_MODELS=(
@@ -27,7 +28,7 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
-    "https://huggingface.co/Laxhar/noobai-XL-Vpred-1.0/blob/main/NoobAI-XL-Vpred-v1.0.safetensors"
+    #"https://huggingface.co/Laxhar/noobai-XL-Vpred-1.0/blob/main/NoobAI-XL-Vpred-v1.0.safetensors" #aint supported on forgee lmao
     "https://huggingface.co/John6666/boleromix-illustriousxl-v281-sdxl/blob/main/boleromixIllustrious_v281.safetensors"
 )
 
