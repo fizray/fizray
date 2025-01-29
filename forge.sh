@@ -27,7 +27,8 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     #"https://huggingface.co/John6666/boleromix-illustriousxl-v281-sdxl/resolve/main/boleromixIllustrious_v281.safetensors"
     #"https://huggingface.co/Laxhar/noobai-XL-Vpred-1.0/resolve/main/NoobAI-XL-Vpred-v1.0.safetensors"
-    "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/VividOrangeMix/VividOrangeMix.safetensors"
+    #"https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/VividOrangeMix/VividOrangeMix.safetensors"
+    "https://civitai.com/api/download/models/18151?type=Pruned%20Model&format=SafeTensor&size=pruned&fp=fp16"
 )
 
 LORA_MODELS=(
