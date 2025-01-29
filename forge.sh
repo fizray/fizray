@@ -20,7 +20,8 @@ PIP_PACKAGES=(
 
 EXTENSIONS=(
     "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
-    "https://github.com/zixaphir/Stable-Diffusion-Webui-Civitai-Helper"
+    "https://github.com/gutris1/sd-hub"
+    "https://github.com/zanllp/sd-webui-infinite-image-browsing"
 )
 
 CHECKPOINT_MODELS=(
