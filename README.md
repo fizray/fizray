@@ -6,5 +6,3 @@
 - 🌍 I'm a native Indonesian and still learning english.
 
 - 🌱 I’m currently learning **Front End Developer**
-
-- 📫 You can reach me at [hello@hrk.my.id](mailto:hello@hrk.my.id)
