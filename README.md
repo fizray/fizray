@@ -8,4 +8,6 @@
 
 - 🌍 I'm a native Indonesian and still learning english.
 
-- 🌱 I’m currently learning **Front End Developer**
+- 🌱 I’m currently learning to work with TypeScript/JavaScript, DevOps and Testing
+
+- Contact: @sparkll_ on Discord, or email me at hello@hrk.my.id
