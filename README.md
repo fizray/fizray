@@ -10,4 +10,4 @@
 
 - 🌱 I’m currently learning to work with TypeScript/JavaScript, DevOps and Testing
 
-- Contact: @fizrayy on Discord, or email me at hello@hrk.my.id
+- Contact: @fizrayy on Discord, or email me at fiz@hrk.my.id
