@@ -12,4 +12,3 @@
 
 - Contact: @fizrayy on Discord, or email me at fiz@hrk.my.id
 
-<>asd
