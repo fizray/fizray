@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning to work with TypeScript/JavaScript, DevOps, QA/QC
 
-- Project I'm currently working: Attendance System and Student Management for SMKN 2 Kota Magelang
+- Project I'm currently working: Attendance System and Student Management (Skanida Apps) for SMKN 2 Kota Magelang
   
 - Don't hesitate to contact me at: @fizrayy on Discord, or email me fiz@hrk.my.id
   
