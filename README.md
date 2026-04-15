@@ -7,6 +7,3 @@
 - Project I'm currently working: Attendance System, Student Management System, Guest Managemet System for SMKN 2 Kota Magelang
   
 - Don't hesitate to contact me at: @fizrayy on Discord, or email me fiz@hrk.my.id
-  
-  ![](https://github-readme-stats.vercel.app/api?username=fizray&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
